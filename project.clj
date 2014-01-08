@@ -1,4 +1,4 @@
-(defproject com.andrewmcveigh/plugin-tinymce "0.1.0"
+(defproject com.andrewmcveigh/plugin-tinymce "0.1.1-SNAPSHOT"
   :description "TinyMCE Servlet 3.0 plugin. With a couple of
                 clojure/hiccup helpers."
   :url "http://github.com/andrewmcveigh/plugin-tinymce"
